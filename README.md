@@ -9,3 +9,5 @@
 5. Pull Request 기능
 6. Review 기능
 7. 충돌(Conflict) 해결
+
+화이팅
